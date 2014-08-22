@@ -9,7 +9,7 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Mike Simkins"]
   spec.email         = ["software@g7obs.com"]
   spec.summary       = %q{Gem to enable serialized storage of an IP Address in a string}
-  spec.description   = %q{ActiveRecord Serializer to be allow the storage of a CIDR IP Address in a String Field}
+  spec.description   = %q{ActiveRecord Serializer to allow the storage of a CIDR IP Address in a String Field}
   spec.homepage      = ""
   spec.license       = "MIT"
 
