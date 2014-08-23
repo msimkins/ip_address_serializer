@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/msimkins/ip_address_serializer.svg?branch=master)](https://travis-ci.org/msimkins/ip_address_serializer)
+
 # IpAddressSerializer
 
 This gem providers a custom Serializer for ActiveRecord to allow the storage and retrieval of an
