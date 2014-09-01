@@ -1,4 +1,5 @@
 [![Build Status](https://travis-ci.org/msimkins/ip_address_serializer.svg?branch=master)](https://travis-ci.org/msimkins/ip_address_serializer)
+[![Dependency Status](https://gemnasium.com/msimkins/ip_address_serializer.svg)](https://gemnasium.com/msimkins/ip_address_serializer)
 
 # IpAddressSerializer
 
